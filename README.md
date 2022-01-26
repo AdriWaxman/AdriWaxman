@@ -1,8 +1,7 @@
 
 #### Hi there 👋
 # I'm Adrian `Front End Developer`
-### Actually working as *Web Developer & CRO Specialist* in Accenture Spain
-
+### Actually working as *Web Developer & CRO Specialist* in Accenture Spain 
 
 ## About Me
 Marketing and Investment Research Degree by University of Malaga. I've specialised in Online Marketing and Web Development by EOI.
@@ -66,3 +65,5 @@ Creation, management, monitoring and of advertising campaigns in Google Adwords,
 
 **University of Malaga**
 *Graduate on Marketing and Investment Research* (2010-2015)
+
+<a style="text-align:right" href="https://app.daily.dev/AdriMan"><img src="https://api.daily.dev/devcards/92c3523acba648db8d3b4edc31733de7.png?r=c3o" width="300" alt="AdriMan's Dev Card"/></a>
