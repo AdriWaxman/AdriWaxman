@@ -1,7 +1,7 @@
 
 #### Hi there 👋
 # I'm Adrian `Front End Developer`
-### Actually working as *Web Developer & CRO Specialist* in Accenture Spain 
+### Actually working as *Frontend Developer* in Jaraxa Software 
 
 ## About Me
 Marketing and Investment Research Degree by University of Malaga. I've specialised in Online Marketing and Web Development by EOI.
@@ -9,7 +9,13 @@ I am a creative, sociable and competitive person, I can work under pressure.
 I would like to find long-time projects, although I don't dismiss interesting projects of short-time duration.
 
 ## Work Experience
-**Web Developer & CRO Specialist** (2020-now)
+**Frontend Developer** (2022/11-now)
+*Jaraxa Software* 
+
+- Develop and optimization of Apps for B2B and B2C business with React, Redux, MUI
+  HTML5, CSS3 and JS
+
+**Web Developer & CRO Specialist** (2020/11-2022/11)
 *Accenture Spain* 
 
 - Design and development A/B tests in Google Optimize and Adobe Target.
